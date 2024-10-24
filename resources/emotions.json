@@ -1,0 +1,5 @@
+{
+    "happy": "songs/happy.mp3",
+    "sad": "songs/sad.mp3",
+    "neutral": "songs/neutral.mp3"
+}
